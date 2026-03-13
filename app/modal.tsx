@@ -78,7 +78,7 @@ const styles = StyleSheet.create({
     fontSize: 24, 
     fontWeight: 'bold', 
     marginBottom: 20, 
-    color: '#FFF8F0' 
+    color: '#170f06' 
   },
   input: {
     width: '100%',
@@ -105,13 +105,13 @@ const styles = StyleSheet.create({
   },
   resultText: {
     fontSize: 22, 
-    color: '#FFF8F0', 
+    color: '#170f06', 
     fontWeight: 'bold' 
   },
   messageText: {
   fontSize: 20,
   marginTop: 10,
-  color: '#FFF8F0',
+  color: '#170f06',
   textAlign: 'center',
   fontWeight: '600',
 },
