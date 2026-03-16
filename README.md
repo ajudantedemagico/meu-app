@@ -1,50 +1,41 @@
-# Welcome to your Expo app 👋
+# Calculadora de IMC
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo mobile para cálculo do Índice de Massa Corporal (IMC), desenvolvido com React Native e Expo.
 
-## Get started
+# Funcionalidades
 
-1. Install dependencies
+- Cálculo do IMC a partir do peso e altura informados
+  Exibição do resultado e da classificação (abaixo do peso, normal, sobrepeso, obesidade)
 
-   ```bash
-   npm install
-   ```
+# Pré-requisitos
 
-2. Start the app
+Antes de rodar o projeto, você precisa ter instalado na sua máquina:
 
-   ```bash
-   npx expo start
-   ```
+Node.js (versão 18 ou superior recomendada)
+Expo CLI
 
-In the output, you'll find options to open the app in a
+Para instalar o Expo CLI globalmente:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+```npm install -g expo-cli
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Como rodar o projeto
 
-## Learn more
+# 1. Clone o repositório
 
-To learn more about developing your project with Expo, look at the following resources:
+git clone https://github.com/ajudantedemagico/meu-app.git
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+# 2. Acesse a pasta do projeto
 
-## Join the community
+cd meu-app
 
-Join our community of developers creating universal apps.
+# 3. Instale as dependências
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+npm install
+
+# 4. Inicie o projeto
+
+npx expo start
+
+🚀 Projeto desenvolvido como atividade acadêmica para a disciplina de Desenvolvimento Mobile da Fatec Itaquera.
