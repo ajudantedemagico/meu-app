@@ -22,20 +22,26 @@ Para instalar o Expo CLI globalmente:
 
 ## Como rodar o projeto
 
-# 1. Clone o repositório
+1. Clone o repositório
 
 git clone https://github.com/ajudantedemagico/meu-app.git
 
-# 2. Acesse a pasta do projeto
+2. Acesse a pasta do projeto
 
+```
 cd meu-app
+```
 
-# 3. Instale as dependências
+3. Instale as dependências
 
+```
 npm install
+```
 
-# 4. Inicie o projeto
+4. Inicie o projeto
 
+```
 npx expo start
+```
 
 🚀 Projeto desenvolvido como atividade acadêmica para a disciplina de Desenvolvimento Mobile da Fatec Itaquera.
