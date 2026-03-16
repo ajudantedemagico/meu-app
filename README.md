@@ -16,7 +16,8 @@ Expo CLI
 
 Para instalar o Expo CLI globalmente:
 
-```npm install -g expo-cli
+```
+npm install -g expo-cli
 
 ```
 
